@@ -14,5 +14,3 @@ let
     #"Removed Duplicates" = Table.Distinct(#"Buffered Table", {"Employee ID"})
 in
     #"Removed Duplicates"
-
-    Testing a change
